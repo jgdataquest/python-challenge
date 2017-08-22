@@ -9,7 +9,6 @@ def main():
 
         # Store all of the text inside a variable called "lines"
         lines = text.read()
-
         # Print the contents of the text file
         print("Paragraph Analysis")
         print("--------------------------------------------")

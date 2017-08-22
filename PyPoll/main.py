@@ -4,7 +4,6 @@ import string
 import collections
 import sys
 
-
 town=input("which Town?    ")
 
 csvpath = os.path.join('Resources', 'election_data_'+ town +'.csv')
